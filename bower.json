@@ -1,0 +1,12 @@
+{
+  "name": "jquery-limitinput",
+  "version": "0.0.1",
+  "main": "jquery.limitinput.js",
+  "dependencies": {
+    "jquery": null
+  },
+  "ignore": [
+    "package.json",
+    "README.md"
+  ]
+}
