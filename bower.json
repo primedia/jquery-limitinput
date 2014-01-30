@@ -1,6 +1,6 @@
 {
   "name": "jquery-limitinput",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "jquery.limitinput.js",
   "dependencies": {
     "jquery": null

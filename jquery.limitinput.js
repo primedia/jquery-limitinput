@@ -1,5 +1,4 @@
-define(function() {
-    (function ($) {
+define(['jquery'], function($) {
         $.fn.limit_input = function(limit, original_label){
           var self = $(this);
           var label = self.siblings('label');
@@ -15,5 +14,4 @@ define(function() {
             update_span.html('(limit ' + limit + ', ' + left + ' left)');
           });
         };
-    })(jQuery);
-})
+});
